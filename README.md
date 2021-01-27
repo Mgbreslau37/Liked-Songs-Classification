@@ -10,4 +10,4 @@ While this project was largely a success, there was some inaccuracy due to the s
 ### Note* 
 The polar plot is not visible in the original notebook, so a photo was added to display the visual.
 
-![alt-text](https://github.com/Mgbreslau37/Liked-Songs-Classification/blob/main/images/Screenshot (5).png)
+![alt-text](https://github.com/Mgbreslau37/Liked-Songs-Classification/blob/main/images/PolarPlot.png)
