@@ -8,6 +8,6 @@ I love finding new music on Spotify, however placing the song into one of my man
 While this project was largely a success, there was some inaccuracy due to the similarities of the playlists. Using stronger ML algorithms in addition to more detailed data, I beleive the accuracy will increase tremendously. Furthermore, I hope to create a web application that will allow users to use their own playlists in sorting their liked songs.
 
 ### Note* 
-The polar plot is not visible in the original notebook, so a photo was added to display the visual.
+The polar plot is not visible in the original notebook. Here it is below.
 
 ![alt-text](https://github.com/Mgbreslau37/Liked-Songs-Classification/blob/main/PolarPlot.png)
